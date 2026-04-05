@@ -8,7 +8,7 @@ app.use(express.json());
 
 // test route
 app.get("/", (req, res) => {
-  res.send("challo challe 🚀");
+  res.send("one more time 🚀");
 });
 
 // sample API
